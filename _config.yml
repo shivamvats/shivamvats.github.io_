@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Me
+locale:           en_IN
 url:
 
 
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
+  name: Shivam Vats
+  avatar: https://avatars0.githubusercontent.com/u/6918975?v=3&s=460
+  bio: "Me"
+  #email:
+  disqus-shortname: aries-will-blog
   twitter: #username
-  facebook: #username
+  facebook: vats.shivam
   google:
     plus: #username
     analytics:
@@ -40,9 +40,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: shivamvats
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: shivamvats
   xing: #username
   instagram: #username
   lastfm: #username
