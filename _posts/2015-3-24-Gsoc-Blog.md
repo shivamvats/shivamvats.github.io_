@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Hey there!
+tags: [gsoc, python, programming, maths]
+comments: true
+image:
+ feature: gsoc.png
 ---
 
 I am applying for Google Summer of Code, 2015. It is an annual program sponsored

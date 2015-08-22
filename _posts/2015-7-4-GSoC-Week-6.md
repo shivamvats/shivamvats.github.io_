@@ -1,6 +1,10 @@
 ---
 layout: post
 title: GSoC Week 6
+tags: [gsoc, python, programming, maths]
+comments: true
+image:
+ feature: gsoc.png
 tags: GSoC, SymPy
 ---
 

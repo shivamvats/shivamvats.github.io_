@@ -1,6 +1,10 @@
 ---
 layout: post
 title: GSoC Week 2
+tags: [gsoc, python, programming, maths]
+comments: true
+image:
+ feature: gsoc.png
 ---
 
 The 2nd week is now coming to an end, and by now I have a pretty good idea

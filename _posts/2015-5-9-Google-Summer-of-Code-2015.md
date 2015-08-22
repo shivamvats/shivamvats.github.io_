@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Beginning of GSoC 2015
+tags: [gsoc, python, programming, maths]
+comments: true
+image:
+ feature: gsoc.png
 ---
 
 ![gsoc](/images/gsoc.png)
