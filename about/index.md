@@ -23,6 +23,7 @@ Currently, I am interning under Prof. Maxim Likhachev at Search Based Planning
 Lab in Robotics Institute, Carnegie Mellon University. I am working on full body
 planning for the PR2 robot and also hope to explore the intersection of topology
 and multi heuristic A* search.
+
 ### Contact me
 
 [shivamvats.iitkgp@gmail.com](mailto:shivamvats.iitkgp@gmail.com)
