@@ -3,6 +3,8 @@
 title:            Me
 locale:           en_IN
 url:
+collections:
+    - CMU
 
 
 # Jekyll configuration
@@ -60,5 +62,3 @@ owner:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
-collections:
-    - CMU
