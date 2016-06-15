@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: All Posts
+title: My days at Robotics Institute
 excerpt: "A List of Posts"
 ---
