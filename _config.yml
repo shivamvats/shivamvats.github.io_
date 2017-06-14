@@ -4,7 +4,9 @@ title:            Me
 locale:           en_IN
 url:
 collections:
-    - CMU
+    robotics:
+        output: true
+        permalink: /:collection/:path
 
 
 # Jekyll configuration
