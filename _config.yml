@@ -2,11 +2,35 @@
 
 title:            Me
 locale:           en_IN
-url:
+url: https://shivamvats.github.io
 collections:
     robotics:
         output: true
         permalink: /:collection/:path
+
+defaults:
+    #_posts
+    - scope:
+        path: ""
+        type: posts
+      values:
+        layout: single
+        author_profile: true
+        read_time: true
+        comments: true
+        share: true
+        related: true
+    - scope:
+        path: ""
+        type: robotics
+      values:
+        layout: single
+        author_profile: true
+        read_time: true
+        comments: true
+        share: true
+        related: true
+
 
 
 # Jekyll configuration
